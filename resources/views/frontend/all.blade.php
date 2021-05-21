@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>123
 <html lang="zh-TW">
 <head>
     <title>Chu Fashion · @yield('title')</title>
